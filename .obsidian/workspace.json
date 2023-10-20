@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "96229ea98c70de04",
+        "id": "dbada49a0bfe5c7e",
         "type": "tabs",
         "children": [
           {
-            "id": "ef3e8d7010dcff07",
+            "id": "da416072f7c45edd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAG003-Álgebra Linear.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62f3518da74e0881",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202310090950 Mandarim.md",
+                "file": "202310100934 Mudança de Base.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cd7ececd062950e6",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202310090950 Mandarim.md",
+                "file": "202310100934 Mudança de Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202310090950 Mandarim.md",
+                "file": "202310100934 Mudança de Base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202310090950 Mandarim.md"
+                "file": "202310100934 Mudança de Base.md"
               }
             }
           }
@@ -162,33 +148,35 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "62f3518da74e0881",
+  "active": "b9fe7c14e17aa5ef",
   "lastOpenFiles": [
-    "OpenUtau.md",
-    "202310090950 Mandarim.md",
-    "Mandarin.md",
+    "files",
     "MAG003-Álgebra Linear.md",
     "202310031034 Correção da P1.md",
-    "Excalidraw/Drawing 2023-10-14 16.40.21.excalidraw.md",
-    "202310141732 Q1a.md",
-    "linearmente dependente.md",
-    "subespaço vetorial.md",
-    "set.md",
-    "espaço vetorial.md",
-    "linearmente independente.md",
-    "EST023-Estatística Descritiva.md",
-    "Excalidraw",
-    "Fatec-cd.md",
-    "PCD001-Projeto Integrador I.md",
-    "MPC008-Produção de Textos Acadêmico-Científicos II.md",
-    "ING014-Inglês II.md",
-    "IED003-Estrutura de Dados.md",
+    "202310100934 Mudança de Base.md",
+    "matrix.md",
+    "202310100934 Base.md",
     "ICD003-Ciência de Dados e Marketing Digital.md",
+    "202310100809 ICD003 Marketing Digital.md",
+    "202310090950 Mandarim.md",
+    "character.md",
+    "tone.md",
+    "Mandarin.md",
     "lora/Loras.md",
-    "lora/C94615864E.md",
-    "lora/0197672661.md",
-    "template/template_unique.md",
-    "template/template_lora.md",
+    "lora/A52AB5BE87.md",
+    "lora/D87F73D59B.md",
+    "lora/56F30179A6.md",
+    "lora/3F9829F0FE.md",
+    "lora/6907F0C4D8.md",
+    "lora/87DD98E9DD.md",
+    "202310180831 postgresql.md",
+    "PostgresSQL.md",
+    "Object-relational database management system.md",
+    "database management system.md",
+    "202310180829 A relational database contain relationships between tables.md",
+    "202310180827 How data is stored in a relational database.md",
+    "202310180824 SQL is a programming language.md",
+    "Excalidraw",
     "template",
     "lora"
   ]

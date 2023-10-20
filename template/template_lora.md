@@ -8,5 +8,6 @@ ref-img:
 keywords: 
 link: 
 lora-tags: 
-filename:
+filename: 
+rec-model:
 ---
